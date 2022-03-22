@@ -52,7 +52,7 @@ const Screen = () => {
       setModal(false);
       alert("the Time is over please select the theatre again")
       navigate("/shows");
-    }, 10000);
+    }, 300000);
   };
 
   return (

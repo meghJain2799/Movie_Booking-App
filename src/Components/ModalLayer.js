@@ -45,7 +45,7 @@ const ModalLayer = () => {
         <h2>Booking Details</h2>
         <div className="text-danger">
           <h2>
-            <Countdown date={Date.now() + 10000} />{" "}
+            <Countdown date={Date.now() + 300000} />{" "}
           </h2>{" "}
         </div>
         <div>
